@@ -1,1 +1,2 @@
-# JuegoInformatica
+# Juego-Informatica
+ 
